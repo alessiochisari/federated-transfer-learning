@@ -7,6 +7,6 @@ In this thesis, is proposed a new technique of Federated Trans- fer Learning (FT
 We have used MNIST and SVHN
 
 # Contacts
-Alessio B Chisari - alessiochisari@hotmail.com 
+Alessio B. Chisari - alessiochisari@hotmail.com 
 
 Bruno Casella - casella0798@gmail.com
