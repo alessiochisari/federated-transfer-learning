@@ -6,6 +6,14 @@ In this thesis, is proposed a new technique of Federated Trans- fer Learning (FT
 # Dataset
 We have used MNIST and SVHN
 
+# Usage 
+Upload the dataset provided on your Google Drive.
+
+Load the .ipynb notebook on Google Colaboratory, and you will be able to run the cells.
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 # Contacts
 Alessio B. Chisari - alessiochisari@hotmail.com 
 
